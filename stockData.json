@@ -1,0 +1,34 @@
+{
+  "apparelStock": [
+    {
+      "apparelCode": "sockss",
+      "size": "M",
+      "quantity": 11,
+      "price": 785
+    },
+    {
+      "apparelCode": "shirt",
+      "size": "31",
+      "quantity": 23,
+      "price": 345
+    },
+    {
+      "apparelCode": "shirt",
+      "size": "34",
+      "quantity": 28765,
+      "price": 634
+    },
+    {
+      "apparelCode": "shoe",
+      "size": "8",
+      "quantity": 22,
+      "price": 452
+    },
+    {
+      "apparelCode": "cap",
+      "size": "M",
+      "quantity": 31,
+      "price": 134
+    }
+  ]
+}
