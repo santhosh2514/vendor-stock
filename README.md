@@ -1,6 +1,15 @@
 # Vendor Stock Management API
 
-This project provides an API for managing vendor stock and customer orders.
+### Project Overview
+This project is a Node.js application that provides APIs for managing apparel stock and processing customer orders. The app includes functionalities to:
+- Check fulfillment for customer orders based on available stock.
+- Calculate the lowest cost for a customer order.
+- Manage vendor stock updates, including bulk updates.
+
+### Technology Stack
+- **Backend:** Node.js, Express.js
+- **Database:** JSON-based file storage 
+- **Logging:** Bunyan (for structured logging)
 
 ## Prerequisites
 
